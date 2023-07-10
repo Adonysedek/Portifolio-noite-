@@ -1,0 +1,6 @@
+C:\Users\jogos\Adonysedek_calculadora\Calculadora_adonysedek\obj\Debug\Calculadora_adonysedek.csproj.AssemblyReference.cache
+C:\Users\jogos\Adonysedek_calculadora\Calculadora_adonysedek\obj\Debug\Calculadora_adonysedek.csproj.SuggestedBindingRedirects.cache
+C:\Users\jogos\Adonysedek_calculadora\Calculadora_adonysedek\obj\Debug\Calculadora_Basica.Program.resources
+C:\Users\jogos\Adonysedek_calculadora\Calculadora_adonysedek\obj\Debug\Calculadora_adonysedek.Properties.Resources.resources
+C:\Users\jogos\Adonysedek_calculadora\Calculadora_adonysedek\obj\Debug\Calculadora_adonysedek.csproj.GenerateResource.cache
+C:\Users\jogos\Adonysedek_calculadora\Calculadora_adonysedek\obj\Debug\Calculadora_adonysedek.csproj.CoreCompileInputs.cache
